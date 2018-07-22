@@ -1,0 +1,1138 @@
+﻿Log file open, 07/22/18 15:31:32
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: PassengerInMyOwnMind
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-200937970) SRandInit(-200937970).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.261717
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +10:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.971s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-4RELTPU (10.1.1.130:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: D:/Programs/Epic/Fortnite/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.22-05.31.33:614][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.22-05.31.33:614][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.22-05.31.33:626][  0]LogInit: Computer: DESKTOP-4RELTPU
+[2018.07.22-05.31.33:626][  0]LogInit: User: Assassin53D
+[2018.07.22-05.31.33:626][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.07.22-05.31.33:626][  0]LogInit: High frequency timer resolution =4.101557 MHz
+[2018.07.22-05.31.33:626][  0]LogMemory: Memory total: Physical=32.0GB (32GB approx)
+[2018.07.22-05.31.33:626][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.22-05.31.33:626][  0]LogMemory: Process Physical Memory: 277.38 MB used, 277.38 MB peak
+[2018.07.22-05.31.33:626][  0]LogMemory: Process Virtual Memory: 267.27 MB used, 267.27 MB peak
+[2018.07.22-05.31.33:626][  0]LogMemory: Physical Memory: 6245.54 MB used,  26480.54 MB free, 32726.08 MB total
+[2018.07.22-05.31.33:626][  0]LogMemory: Virtual Memory: 4813.82 MB used,  26480.54 MB free, 134217728.00 MB total
+[2018.07.22-05.31.33:642][  0]LogInit: Using OS detected language (en-US).
+[2018.07.22-05.31.33:642][  0]LogInit: Using OS detected locale (en-AU).
+[2018.07.22-05.31.33:646][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.07.22-05.31.33:960][  0]LogStreaming: Display: Took  0.318s to EndInitTextLocalization.
+[2018.07.22-05.31.33:960][  0]LogInit: Setting process to per monitor DPI aware
+[2018.07.22-05.31.33:984][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.07.22-05.31.33:984][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.07.22-05.31.34:233][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.22-05.31.34:282][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080 Ti' (Feature Level 11_0)
+[2018.07.22-05.31.34:282][  0]LogD3D11RHI:       11132/0/16363 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.07.22-05.31.34:284][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.22-05.31.34:284][  0]LogD3D11RHI:       0/0/16363 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.22-05.31.34:284][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.22-05.31.34:291][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.22-05.31.34:291][  0]LogD3D11RHI:     GPU DeviceId: 0x1b06 (for the marketing name, search the web for "GPU Device Id")
+[2018.07.22-05.31.34:291][  0]LogWindows: EnumDisplayDevices:
+[2018.07.22-05.31.34:291][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080 Ti' (P:1 D:1)
+[2018.07.22-05.31.34:291][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2018.07.22-05.31.34:292][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2018.07.22-05.31.34:292][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2018.07.22-05.31.34:292][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.07.22-05.31.34:292][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080 Ti
+[2018.07.22-05.31.34:292][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.07.22-05.31.34:292][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.07.22-05.31.34:292][  0]LogRHI: Texture pool is 7792 MB (70% of 11132 MB)
+[2018.07.22-05.31.34:317][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.07.22-05.31.34:317][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.07.22-05.31.34:317][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.22-05.31.34:326][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.07.22-05.31.34:374][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (C:/Users/Assassin53D/Documents/GitKraken Unreal/PassengerInMyOwnMind/Intermediate/Shaders/WorkingDirectory/7236/).
+[2018.07.22-05.31.34:374][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Assassin53D/AppData/Local/Temp/UnrealShaderWorkingDir/2AE9D9074906523EB85DB1BCAD74426B/'.
+[2018.07.22-05.31.34:559][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.22-05.31.34:569][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.22-05.31.34:579][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.22-05.31.34:590][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.22-05.31.34:601][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.22-05.31.34:611][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.22-05.31.34:622][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.22-05.31.34:632][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.22-05.31.34:637][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.22-05.31.34:647][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.07.22-05.31.34:657][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.07.22-05.31.34:667][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.07.22-05.31.34:677][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.07.22-05.31.34:690][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.07.22-05.31.34:700][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.07.22-05.31.34:721][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.07.22-05.31.34:721][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.07.22-05.31.34:731][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.22-05.31.34:733][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.22-05.31.34:768][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.22-05.31.34:778][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.22-05.31.34:788][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.22-05.31.34:798][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.22-05.31.34:808][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.22-05.31.34:819][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.22-05.31.34:819][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.22-05.31.34:919][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.07.22-05.31.34:919][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.07.22-05.31.34:919][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.22-05.31.35:415][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.22-05.31.35:461][  0]LogDerivedDataCache: Loaded boot cache 0.05s 74MB C:/Users/Assassin53D/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.22-05.31.35:461][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Assassin53D/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.07.22-05.31.35:461][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Assassin53D/Documents/GitKraken Unreal/PassengerInMyOwnMind/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.22-05.31.35:461][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.22-05.31.35:461][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Assassin53D/Documents/GitKraken Unreal/PassengerInMyOwnMind/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.22-05.31.35:461][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.22-05.31.35:473][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.22-05.31.35:486][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Assassin53D/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.22-05.31.35:486][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.07.22-05.31.35:486][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.07.22-05.31.35:494][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.22-05.31.35:494][  0]LogSlate: Using Freetype 2.6.0
+[2018.07.22-05.31.35:496][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.22-05.31.35:496][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.22-05.31.35:650][  0]LogAssetRegistry: FAssetRegistry took 0.0248 seconds to start up
+[2018.07.22-05.31.35:879][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.22-05.31.35:990][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.22-05.31.35:992][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.22-05.31.35:992][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.22-05.31.35:992][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.22-05.31.35:992][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.07.22-05.31.35:992][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.07.22-05.31.36:019][  0]LogNetVersion: PassengerInMyOwnMind , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 35306815)
+[2018.07.22-05.31.36:392][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.084717 seconds
+[2018.07.22-05.31.36:396][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.07.22-05.31.36:396][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.07.22-05.31.36:396][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.22-05.31.37:949][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.22-05.31.37:980][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.22-05.31.38:346][  0]SourceControl: Source control is disabled
+[2018.07.22-05.31.38:346][  0]SourceControl: Source control is disabled
+[2018.07.22-05.31.38:364][  0]SourceControl: Source control is disabled
+[2018.07.22-05.31.38:381][  0]SourceControl: Source control is disabled
+[2018.07.22-05.31.38:867][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.22-05.31.39:020][  0]LogOcInput: OculusInput pre-init called
+[2018.07.22-05.31.39:119][  0]LogEngine: Initializing Engine...
+[2018.07.22-05.31.39:121][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.22-05.31.39:122][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.22-05.31.39:122][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.22-05.31.39:285][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.22-05.31.39:293][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.22-05.31.39:531][  0]LogInit: FAudioDevice initialized.
+[2018.07.22-05.31.39:583][  0]LogDerivedDataCache: Saved boot cache 0.05s 74MB C:/Users/Assassin53D/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.22-05.31.39:592][  0]LogInit: Texture streaming: Enabled
+[2018.07.22-05.31.39:607][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.22-05.31.39:636][  0]LogInit: Transaction tracking system initialized
+[2018.07.22-05.31.39:651][  0]BlueprintLog: New page: Editor Load
+[2018.07.22-05.31.39:704][  0]LocalizationService: Localization service is disabled
+[2018.07.22-05.31.39:792][  0]LogConsoleResponse: Display: 
+[2018.07.22-05.31.39:953][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.22-05.31.39:953][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.22-05.31.39:953][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.22-05.31.39:953][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.22-05.31.39:953][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.22-05.31.40:298][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Assassin53D/Documents/GitKraken Unreal/PassengerInMyOwnMind/Content/' took 0.03s
+[2018.07.22-05.31.40:298][  0]SourceControl: Source control is disabled
+[2018.07.22-05.31.40:298][  0]Cmd: MAP LOAD FILE="C:/Users/Assassin53D/Documents/GitKraken Unreal/PassengerInMyOwnMind/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.22-05.31.40:299][  0]LightingResults: New page: Lighting Build
+[2018.07.22-05.31.40:301][  0]MapCheck: New page: Map Check
+[2018.07.22-05.31.40:301][  0]LightingResults: New page: Lighting Build
+[2018.07.22-05.31.40:370][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f15c47830, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.07.22-05.31.40:384][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024f15c47830, Size=72
+[2018.07.22-05.31.40:384][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f15beb880, Size=72, Default__FirstPerson_AnimBP_C Function /Engine/Transient.REINST_FirstPerson_AnimBP_C_0:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.07.22-05.31.40:390][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f15bc0f40, Size=72, Default__FirstPerson_AnimBP_C Function /Game/FirstPerson/Animations/FirstPerson_AnimBP.FirstPerson_AnimBP_C:ExecuteUbergraph_FirstPerson_AnimBP
+[2018.07.22-05.31.40:417][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f15b91500, Size=256, Default__FirstPersonProjectile_C Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile
+[2018.07.22-05.31.40:420][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024f15b91500, Size=256
+[2018.07.22-05.31.40:420][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f15b91500, Size=256, Default__FirstPersonProjectile_C Function /Engine/Transient.REINST_FirstPersonProjectile_C_4:ExecuteUbergraph_FirstPersonProjectile
+[2018.07.22-05.31.40:422][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f15b92d00, Size=256, Default__FirstPersonProjectile_C Function /Game/FirstPersonBP/Blueprints/FirstPersonProjectile.FirstPersonProjectile_C:ExecuteUbergraph_FirstPersonProjectile
+[2018.07.22-05.31.40:618][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f157d9d00, Size=272, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2018.07.22-05.31.40:627][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024f157d9d00, Size=272
+[2018.07.22-05.31.40:627][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f157d9d00, Size=272, Default__FirstPersonCharacter_C Function /Engine/Transient.REINST_FirstPersonCharacter_C_6:ExecuteUbergraph_FirstPersonCharacter
+[2018.07.22-05.31.40:635][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f1549b600, Size=272, Default__FirstPersonCharacter_C Function /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C:ExecuteUbergraph_FirstPersonCharacter
+[2018.07.22-05.31.40:738][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f15f2ed40, Size=288, Default__AlarmClock_C Function /Game/DanielStuff/Prefabs/AlarmClock.AlarmClock_C:ExecuteUbergraph_AlarmClock
+[2018.07.22-05.31.40:740][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024f15f2ed40, Size=288
+[2018.07.22-05.31.40:740][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f15f2ed40, Size=288, Default__AlarmClock_C Function /Engine/Transient.REINST_AlarmClock_C_10:ExecuteUbergraph_AlarmClock
+[2018.07.22-05.31.40:742][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f15f2e200, Size=288, Default__AlarmClock_C Function /Game/DanielStuff/Prefabs/AlarmClock.AlarmClock_C:ExecuteUbergraph_AlarmClock
+[2018.07.22-05.31.40:782][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f15f2cf40, Size=288, Default__ClothesMain_C Function /Game/DanielStuff/Prefabs/ClothesMain.ClothesMain_C:ExecuteUbergraph_ClothesMain
+[2018.07.22-05.31.40:784][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024f15f2cf40, Size=288
+[2018.07.22-05.31.40:784][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f15f2cf40, Size=288, Default__ClothesMain_C Function /Engine/Transient.REINST_ClothesMain_C_12:ExecuteUbergraph_ClothesMain
+[2018.07.22-05.31.40:786][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f15f2c7c0, Size=288, Default__ClothesMain_C Function /Game/DanielStuff/Prefabs/ClothesMain.ClothesMain_C:ExecuteUbergraph_ClothesMain
+[2018.07.22-05.31.40:796][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f15f2c400, Size=312, Default__DoorOpener_C Function /Game/DanielStuff/Prefabs/DoorOpener.DoorOpener_C:ExecuteUbergraph_DoorOpener
+[2018.07.22-05.31.40:799][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024f15f2c400, Size=312
+[2018.07.22-05.31.40:799][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f153c7b00, Size=312, Default__DoorOpener_C Function /Engine/Transient.REINST_DoorOpener_C_14:ExecuteUbergraph_DoorOpener
+[2018.07.22-05.31.40:802][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f153c74c0, Size=312, Default__DoorOpener_C Function /Game/DanielStuff/Prefabs/DoorOpener.DoorOpener_C:ExecuteUbergraph_DoorOpener
+[2018.07.22-05.31.40:811][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f153c7d80, Size=296, Default__FrontDoorOpener_C Function /Game/DanielStuff/Prefabs/FrontDoorOpener.FrontDoorOpener_C:ExecuteUbergraph_FrontDoorOpener
+[2018.07.22-05.31.40:814][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024f153c7d80, Size=296
+[2018.07.22-05.31.40:814][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f153c7d80, Size=296, Default__FrontDoorOpener_C Function /Engine/Transient.REINST_FrontDoorOpener_C_16:ExecuteUbergraph_FrontDoorOpener
+[2018.07.22-05.31.40:816][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f153c6d40, Size=296, Default__FrontDoorOpener_C Function /Game/DanielStuff/Prefabs/FrontDoorOpener.FrontDoorOpener_C:ExecuteUbergraph_FrontDoorOpener
+[2018.07.22-05.31.40:931][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f15312d40, Size=288, Default__Keys_C Function /Game/DanielStuff/Prefabs/Keys.Keys_C:ExecuteUbergraph_Keys
+[2018.07.22-05.31.40:933][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024f15312d40, Size=288
+[2018.07.22-05.31.40:933][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f15312d40, Size=288, Default__Keys_C Function /Engine/Transient.REINST_Keys_C_18:ExecuteUbergraph_Keys
+[2018.07.22-05.31.40:935][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f15312340, Size=288, Default__Keys_C Function /Game/DanielStuff/Prefabs/Keys.Keys_C:ExecuteUbergraph_Keys
+[2018.07.22-05.31.40:952][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f15311bc0, Size=288, Default__Papers_C Function /Game/DanielStuff/Prefabs/Papers.Papers_C:ExecuteUbergraph_Papers
+[2018.07.22-05.31.40:955][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024f15311bc0, Size=288
+[2018.07.22-05.31.40:955][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f15311bc0, Size=288, Default__Papers_C Function /Engine/Transient.REINST_Papers_C_20:ExecuteUbergraph_Papers
+[2018.07.22-05.31.40:957][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f15311440, Size=288, Default__Papers_C Function /Game/DanielStuff/Prefabs/Papers.Papers_C:ExecuteUbergraph_Papers
+[2018.07.22-05.31.41:025][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f16809e40, Size=288, Default__Phone_C Function /Game/DanielStuff/Prefabs/Phone.Phone_C:ExecuteUbergraph_Phone
+[2018.07.22-05.31.41:027][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024f16809e40, Size=288
+[2018.07.22-05.31.41:027][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f16809e40, Size=288, Default__Phone_C Function /Engine/Transient.REINST_Phone_C_22:ExecuteUbergraph_Phone
+[2018.07.22-05.31.41:029][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f168096c0, Size=288, Default__Phone_C Function /Game/DanielStuff/Prefabs/Phone.Phone_C:ExecuteUbergraph_Phone
+[2018.07.22-05.31.41:084][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f16808680, Size=288, Default__Shoes_C Function /Game/DanielStuff/Prefabs/Shoes.Shoes_C:ExecuteUbergraph_Shoes
+[2018.07.22-05.31.41:086][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024f16808680, Size=288
+[2018.07.22-05.31.41:086][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f16808680, Size=288, Default__Shoes_C Function /Engine/Transient.REINST_Shoes_C_24:ExecuteUbergraph_Shoes
+[2018.07.22-05.31.41:088][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f1f19bd80, Size=288, Default__Shoes_C Function /Game/DanielStuff/Prefabs/Shoes.Shoes_C:ExecuteUbergraph_Shoes
+[2018.07.22-05.31.41:116][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f1ed9b850, Size=24, Default__PlayerHUDClass_C Function /Game/DanielStuff/Blueprints/PlayerHUDClass.PlayerHUDClass_C:ExecuteUbergraph_PlayerHUDClass
+[2018.07.22-05.31.41:117][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024f1ed9b850, Size=24
+[2018.07.22-05.31.41:117][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f1ed9b850, Size=24, Default__PlayerHUDClass_C Function /Engine/Transient.REINST_PlayerHUDClass_C_27:ExecuteUbergraph_PlayerHUDClass
+[2018.07.22-05.31.41:118][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f1ed9b568, Size=24, Default__PlayerHUDClass_C Function /Game/DanielStuff/Blueprints/PlayerHUDClass.PlayerHUDClass_C:ExecuteUbergraph_PlayerHUDClass
+[2018.07.22-05.31.41:641][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f1ed9b2b0, Size=24, Default__FirstPersonExampleMap_C Function /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C:ExecuteUbergraph_FirstPersonExampleMap
+[2018.07.22-05.31.41:642][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024f1ed9b2b0, Size=24
+[2018.07.22-05.31.41:642][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f1ed9b2b0, Size=24, Default__FirstPersonExampleMap_C Function /Engine/Transient.REINST_FirstPersonExampleMap_C_31:ExecuteUbergraph_FirstPersonExampleMap
+[2018.07.22-05.31.41:643][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f1ed9aa70, Size=24, Default__FirstPersonExampleMap_C Function /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C:ExecuteUbergraph_FirstPersonExampleMap
+[2018.07.22-05.31.43:047][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [12.064443ms] /Game/DanielStuff/Models/Keys/Keys.Keys_Key1
+[2018.07.22-05.31.43:050][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [2.972286ms] /Game/DanielStuff/Models/Keys/Keys.Keys_Key2
+[2018.07.22-05.31.43:054][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [3.300210ms] /Game/DanielStuff/Models/Keys/Keys.Keys_Key3
+[2018.07.22-05.31.43:057][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [3.213902ms] /Game/DanielStuff/Models/Keys/Keys.Keys_Key4
+[2018.07.22-05.31.43:059][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [1.649861ms] /Game/DanielStuff/Models/Keys/Keys.Keys_Plane
+[2018.07.22-05.31.43:061][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [2.976431ms] /Game/DanielStuff/Models/Keys/Keys.Keys_Ring1
+[2018.07.22-05.31.43:064][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [2.857451ms] /Game/DanielStuff/Models/Keys/Keys.Keys_Ring2
+[2018.07.22-05.31.43:067][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [3.013490ms] /Game/DanielStuff/Models/Keys/Keys.Keys_Ring3
+[2018.07.22-05.31.43:070][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [2.963509ms] /Game/DanielStuff/Models/Keys/Keys.Keys_Ring4
+[2018.07.22-05.31.43:176][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [15.696478ms] /Game/FirstPerson/FPWeapon/Mesh/SK_FPGun.SK_FPGun
+[2018.07.22-05.31.43:229][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [16.941858ms] /Game/FirstPerson/Character/Mesh/SK_Mannequin_Arms.SK_Mannequin_Arms
+[2018.07.22-05.31.43:486][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [189.242035ms] /Game/DanielStuff/Models/AlarmClock/s_clock_001.s_clock_001
+[2018.07.22-05.31.44:013][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [7.192390ms] /Game/DanielStuff/Models/pen/1/Pen.Pen
+[2018.07.22-05.31.44:161][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.07.22-05.31.44:229][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.22-05.31.44:257][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024f15beb880, Size=72
+[2018.07.22-05.31.44:257][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024f15b91500, Size=256
+[2018.07.22-05.31.44:257][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024f157d9d00, Size=272
+[2018.07.22-05.31.44:257][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024f15f2ed40, Size=288
+[2018.07.22-05.31.44:257][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024f15f2cf40, Size=288
+[2018.07.22-05.31.44:257][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024f153c7b00, Size=312
+[2018.07.22-05.31.44:257][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024f153c7d80, Size=296
+[2018.07.22-05.31.44:257][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024f15312d40, Size=288
+[2018.07.22-05.31.44:257][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024f15311bc0, Size=288
+[2018.07.22-05.31.44:257][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024f16809e40, Size=288
+[2018.07.22-05.31.44:257][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024f16808680, Size=288
+[2018.07.22-05.31.44:257][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024f1ed9b850, Size=24
+[2018.07.22-05.31.44:257][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024f1ed9b2b0, Size=24
+[2018.07.22-05.31.44:259][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.22-05.31.44:401][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 141.912ms to complete.
+[2018.07.22-05.31.44:401][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 4.103
+[2018.07.22-05.31.44:889][  0]LogCollectionManager: Loaded 0 collections in 0.001809 seconds
+[2018.07.22-05.31.44:949][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Assassin53D/Documents/GitKraken Unreal/PassengerInMyOwnMind/Saved/Collections/' took 0.01s
+[2018.07.22-05.31.44:949][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Assassin53D/Documents/GitKraken Unreal/PassengerInMyOwnMind/Content/Developers/Assassin53D/Collections/' took 0.01s
+[2018.07.22-05.31.44:949][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Assassin53D/Documents/GitKraken Unreal/PassengerInMyOwnMind/Content/Collections/' took 0.01s
+[2018.07.22-05.31.44:949][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.07.22-05.31.44:956][  0]LogContentBrowser: Native class hierarchy populated in 0.0067 seconds. Added 2452 classes and 558 folders.
+[2018.07.22-05.31.44:962][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.22-05.31.45:564][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.22-05.31.45:568][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.07.22-05.31.45:941][  0]LogSlate: Took 0.000502 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.22-05.31.45:943][  0]LogSlate: Took 0.000453 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.22-05.31.45:974][  0]LogSlate: Took 0.016904 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.22-05.31.46:289][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.07.22-05.31.46:735][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.22-05.31.46:735][  0]LogLoad: (Engine Initialization) Total time: 15.51 seconds
+[2018.07.22-05.31.46:735][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.22-05.31.46:744][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.22-05.31.46:782][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.07.22-05.31.46:857][  0]LogSlate: Took 0.030903 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.22-05.31.46:899][  1]LogAssetRegistry: Asset discovery search completed in 11.2704 seconds
+[2018.07.22-05.31.46:901][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.07.22-05.31.46:901][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000036 seconds (updated 0 objects)
+[2018.07.22-05.32.35:693][755]Cmd: EDIT COPY
+[2018.07.22-05.32.36:027][792]Cmd: EDIT PASTE
+[2018.07.22-05.32.45:059][798]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.07.22-05.32.46:785][970]Cmd: TRANSACTION UNDO
+[2018.07.22-05.32.46:785][970]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.22-05.32.46:808][970]LogSlate: Took 0.000448 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.22-05.32.53:594][732]Cmd: EDIT COPY
+[2018.07.22-05.32.53:825][751]Cmd: EDIT PASTE
+[2018.07.22-05.33.04:298][976]Cmd: EDIT COPY
+[2018.07.22-05.33.04:556][  6]Cmd: EDIT PASTE
+[2018.07.22-05.33.12:197][877]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.07.22-05.33.12:786][944]Cmd: TRANSACTION UNDO
+[2018.07.22-05.33.12:786][944]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.22-05.33.14:763][173]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.07.22-05.33.17:937][535]Cmd: TRANSACTION UNDO
+[2018.07.22-05.33.17:937][535]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.22-05.33.27:324][576]Cmd: EDIT COPY
+[2018.07.22-05.33.27:592][607]Cmd: EDIT PASTE
+[2018.07.22-05.33.39:284][947]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.07.22-05.41.47:595][757]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024f1ed9aa70, Size=24
+[2018.07.22-05.41.47:595][757]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f8a1014b0, Size=24, Default__FirstPersonExampleMap_C Function /Engine/Transient.REINST_FirstPersonExampleMap_C_35:ExecuteUbergraph_FirstPersonExampleMap
+[2018.07.22-05.41.47:596][757]LogUObjectGlobals: Created PersistentFrame Addr=0x0000024f8a103ad8, Size=24, Default__FirstPersonExampleMap_C Function /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C:ExecuteUbergraph_FirstPersonExampleMap
+[2018.07.22-05.41.47:967][757]LogSavePackage: Save=375.41ms
+[2018.07.22-05.41.47:967][757]LogSavePackage: Moving 'C:/Users/Assassin53D/Documents/GitKraken Unreal/PassengerInMyOwnMind/Saved/FirstPersonExampleMap_Auto13B12459543B485D837BC24983696D0D8.tmp' to 'C:/Users/Assassin53D/Documents/GitKraken Unreal/PassengerInMyOwnMind/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2018.07.22-05.41.47:969][757]LogSavePackage: Display: Finished SavePackage C:/Users/Assassin53D/Documents/GitKraken Unreal/PassengerInMyOwnMind/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap
+[2018.07.22-05.41.47:970][757]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.441
+[2018.07.22-05.41.47:970][757]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.441
+[2018.07.22-06.38.35:106][979]LogInit: XAudio2 using 'BenQ RL2755-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.22-06.40.28:441][319]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.22-06.41.06:778][434]LogInit: XAudio2 using 'BenQ RL2755-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.22-07.07.46:870][346]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.07.22-07.08.28:222][198]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door7)
+[2018.07.22-07.08.35:673][954]LogEditorViewport: Clicking on Actor (CTRL LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2018.07.22-07.08.53:271][900]LogEditorViewport: Clicking on Actor (CTRL LMB): PostProcessVolume (PostProcessVolume)
+[2018.07.22-07.08.59:040][537]LogEditorViewport: Clicking on Actor (CTRL LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2018.07.22-07.09.01:975][876]LogEditorViewport: Clicking on Actor (CTRL LMB): PostProcessVolume (PostProcessVolume)
+[2018.07.22-07.09.14:511][298]Cmd: TRANSACTION UNDO
+[2018.07.22-07.09.14:511][298]LogEditorTransaction: Undo Move Actors
+[2018.07.22-07.09.14:520][298]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush_9.BrushComponent0) Component already registered.
+[2018.07.22-07.09.14:521][298]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush16.BrushComponent0) Component already registered.
+[2018.07.22-07.09.14:521][298]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush6.BrushComponent0) Component already registered.
+[2018.07.22-07.09.14:521][298]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush30.BrushComponent0) Component already registered.
+[2018.07.22-07.09.14:522][298]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush20.BrushComponent0) Component already registered.
+[2018.07.22-07.09.14:522][298]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush33.BrushComponent0) Component already registered.
+[2018.07.22-07.09.14:527][298]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush51.BrushComponent0) Component already registered.
+[2018.07.22-07.09.14:527][298]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush64.BrushComponent0) Component already registered.
+[2018.07.22-07.09.14:527][298]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush34.BrushComponent0) Component already registered.
+[2018.07.22-07.09.14:528][298]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush45.BrushComponent0) Component already registered.
+[2018.07.22-07.09.14:528][298]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush39.BrushComponent0) Component already registered.
+[2018.07.22-07.09.15:477][407]Cmd: TRANSACTION UNDO
+[2018.07.22-07.09.15:477][407]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.22-07.09.16:177][489]Cmd: TRANSACTION UNDO
+[2018.07.22-07.09.16:177][489]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.22-07.09.16:771][559]Cmd: TRANSACTION UNDO
+[2018.07.22-07.09.16:771][559]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.22-07.09.17:506][646]Cmd: TRANSACTION UNDO
+[2018.07.22-07.09.17:506][646]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.22-07.09.20:183][961]Cmd: TRANSACTION UNDO
+[2018.07.22-07.09.20:183][961]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.22-07.09.20:732][ 10]Cmd: TRANSACTION UNDO
+[2018.07.22-07.09.20:732][ 10]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.22-07.09.21:746][129]Cmd: TRANSACTION UNDO
+[2018.07.22-07.09.21:746][129]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.22-07.09.28:617][943]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-07.09.28:930][980]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-07.09.32:542][413]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-07.09.35:137][723]LogEditorTransaction: Undo Move Actors
+[2018.07.22-07.09.35:145][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush8.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:145][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush3.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:146][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush19.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:146][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush14.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:151][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush20.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:151][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush33.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:152][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush51.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:152][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush64.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:152][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush34.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:153][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush31.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:153][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush45.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:153][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush39.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:180][723]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.09.35:195][723]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.09.35:209][723]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.09.35:223][723]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.09.35:237][723]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.09.35:244][723]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.22-07.09.35:261][723]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.09.35:276][723]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.09.35:292][723]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.09.35:308][723]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.09.35:323][723]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.09.35:339][723]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.09.35:355][723]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.09.35:370][723]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.09.35:386][723]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.09.35:402][723]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.09.35:417][723]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.09.35:426][723]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.22-07.09.35:426][723]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.22-07.09.35:433][723]LogEditorTransaction: Undo Move Actors
+[2018.07.22-07.09.35:443][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush14.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:444][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush10.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:444][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush8.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:444][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush60.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:449][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush46.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:449][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush38.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:450][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush26.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:450][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush20.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:450][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush34.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:478][723]LogEditorTransaction: Undo Move Actors
+[2018.07.22-07.09.35:488][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush7.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:488][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:488][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush15.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:489][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush60.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:496][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush46.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:496][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush38.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:496][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush26.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:497][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush21_37.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:497][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush34.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:524][723]LogEditorTransaction: Undo Move Actors
+[2018.07.22-07.09.35:534][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush7.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:534][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:534][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush15.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:534][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush60.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:540][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush46.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:540][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush38.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:541][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush26.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:541][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush21_37.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:541][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush34.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:568][723]LogEditorTransaction: Undo Move Actors
+[2018.07.22-07.09.35:577][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush8.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:577][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush4.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:577][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush17.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:578][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush13.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:581][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush65.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:583][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush46.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:584][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush49.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:584][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush22.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:584][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush30.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:604][723]LogEditorTransaction: Undo Paste
+[2018.07.22-07.09.35:613][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush3.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:614][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush18.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:618][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush32_49.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:619][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush42.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:646][723]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.09.35:662][723]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.09.35:678][723]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.09.35:694][723]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.09.35:708][723]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.09.35:724][723]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.09.35:740][723]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.09.35:755][723]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.22-07.09.35:768][723]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.09.35:783][723]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.09.35:799][723]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.09.35:815][723]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.09.35:831][723]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.09.35:847][723]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.09.35:862][723]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.09.35:872][723]LogEditorTransaction: Undo Move Actors
+[2018.07.22-07.09.35:880][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush10.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:880][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush11.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:880][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush7.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:880][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush17.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:881][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush18.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:881][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush14.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:881][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush47.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:886][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush42.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:886][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush26.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:886][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush33.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:909][723]LogEditorTransaction: Undo Move Actors
+[2018.07.22-07.09.35:917][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush10.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:917][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush11.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:917][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush7.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:917][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush17.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:917][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush18.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:917][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush14.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:918][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush47.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:923][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush42.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:923][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush26.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:923][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush33.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:943][723]LogEditorTransaction: Undo Move Actors
+[2018.07.22-07.09.35:951][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush18.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:951][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush14.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:951][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush15.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:955][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush_9.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:955][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush39.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:955][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush35.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:956][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush36.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:956][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush42.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:956][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush25.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:956][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush22.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:956][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush21_37.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:957][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush32_49.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:957][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush28.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:970][723]LogEditorTransaction: Undo Paste
+[2018.07.22-07.09.35:979][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush18.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:979][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush12.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:980][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush23.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:984][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush36.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:985][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush41.BrushComponent0) Component already registered.
+[2018.07.22-07.09.35:998][723]LogEditorTransaction: Undo Move Actors
+[2018.07.22-07.09.36:007][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush43.BrushComponent0) Component already registered.
+[2018.07.22-07.09.36:011][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush40.BrushComponent0) Component already registered.
+[2018.07.22-07.09.36:012][723]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush27.BrushComponent0) Component already registered.
+[2018.07.22-07.09.36:041][723]LogEditorTransaction: Redo Move Actors
+[2018.07.22-07.09.41:928][145]LogEditorTransaction: Undo Move Actors
+[2018.07.22-07.09.41:936][145]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush43.BrushComponent0) Component already registered.
+[2018.07.22-07.09.41:940][145]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush40.BrushComponent0) Component already registered.
+[2018.07.22-07.09.41:941][145]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush27.BrushComponent0) Component already registered.
+[2018.07.22-07.09.41:960][145]LogEditorTransaction: Undo Move Actors
+[2018.07.22-07.09.41:967][145]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush12.BrushComponent0) Component already registered.
+[2018.07.22-07.09.41:972][145]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush31.BrushComponent0) Component already registered.
+[2018.07.22-07.09.41:988][145]LogEditorTransaction: Undo Paste
+[2018.07.22-07.09.41:996][145]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush14.BrushComponent0) Component already registered.
+[2018.07.22-07.09.41:996][145]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush17.BrushComponent0) Component already registered.
+[2018.07.22-07.09.41:996][145]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush21_37.BrushComponent0) Component already registered.
+[2018.07.22-07.09.41:997][145]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush22.BrushComponent0) Component already registered.
+[2018.07.22-07.09.42:000][145]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush6.BrushComponent0) Component already registered.
+[2018.07.22-07.09.42:000][145]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2018.07.22-07.09.42:001][145]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush33.BrushComponent0) Component already registered.
+[2018.07.22-07.09.42:001][145]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush29.BrushComponent0) Component already registered.
+[2018.07.22-07.09.42:001][145]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush37.BrushComponent0) Component already registered.
+[2018.07.22-07.09.42:016][145]LogEditorTransaction: Undo Move Actors
+[2018.07.22-07.09.42:043][145]LogEditorTransaction: Undo Move Actors
+[2018.07.22-07.09.42:072][145]LogEditorTransaction: Undo Move Actors
+[2018.07.22-07.09.42:097][145]LogEditorTransaction: Undo Move Actors
+[2018.07.22-07.09.42:123][145]LogEditorTransaction: Undo Move Actors
+[2018.07.22-07.09.42:132][145]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush34.BrushComponent0) Component already registered.
+[2018.07.22-07.09.44:261][396]LogEditorTransaction: Redo Move Actors
+[2018.07.22-07.09.44:287][396]LogEditorTransaction: Redo Move Actors
+[2018.07.22-07.09.44:314][396]LogEditorTransaction: Redo Move Actors
+[2018.07.22-07.09.44:343][396]LogEditorTransaction: Redo Move Actors
+[2018.07.22-07.09.44:373][396]LogEditorTransaction: Redo Move Actors
+[2018.07.22-07.09.44:400][396]LogEditorTransaction: Redo Paste
+[2018.07.22-07.09.44:427][396]LogEditorTransaction: Redo Move Actors
+[2018.07.22-07.09.44:455][396]LogEditorTransaction: Redo Move Actors
+[2018.07.22-07.09.44:487][396]LogEditorTransaction: Redo Paste
+[2018.07.22-07.09.44:517][396]LogEditorTransaction: Redo Move Actors
+[2018.07.22-07.09.44:549][396]LogEditorTransaction: Redo Move Actors
+[2018.07.22-07.09.44:580][396]LogEditorTransaction: Redo Move Actors
+[2018.07.22-07.09.44:609][396]LogEditorTransaction: Redo Select Brush Surface
+[2018.07.22-07.09.44:627][396]LogEditorTransaction: Redo Select Brush Surface
+[2018.07.22-07.09.44:641][396]LogEditorTransaction: Redo Select Brush Surface
+[2018.07.22-07.09.44:655][396]LogEditorTransaction: Redo Select Brush Surface
+[2018.07.22-07.09.46:108][563]LogEditorTransaction: Redo Select Brush Surface
+[2018.07.22-07.09.46:122][563]LogEditorTransaction: Redo Select Brush Surface
+[2018.07.22-07.09.46:136][563]LogEditorTransaction: Redo Select Brush Surface
+[2018.07.22-07.09.46:150][563]LogEditorTransaction: Redo Clicking on Actors
+[2018.07.22-07.09.46:161][563]LogEditorTransaction: Redo Select Brush Surface
+[2018.07.22-07.09.46:175][563]LogEditorTransaction: Redo Select Brush Surface
+[2018.07.22-07.09.46:189][563]LogEditorTransaction: Redo Select Brush Surface
+[2018.07.22-07.09.46:203][563]LogEditorTransaction: Redo Select Brush Surface
+[2018.07.22-07.09.46:217][563]LogEditorTransaction: Redo Select Brush Surface
+[2018.07.22-07.09.46:231][563]LogEditorTransaction: Redo Select Brush Surface
+[2018.07.22-07.09.46:245][563]LogEditorTransaction: Redo Select Brush Surface
+[2018.07.22-07.09.46:259][563]LogEditorTransaction: Redo Paste
+[2018.07.22-07.09.47:562][711]LogEditorTransaction: Redo Move Actors
+[2018.07.22-07.09.47:602][711]LogEditorTransaction: Redo Move Actors
+[2018.07.22-07.09.47:644][711]LogEditorTransaction: Redo Move Actors
+[2018.07.22-07.09.47:688][711]LogEditorTransaction: Redo Move Actors
+[2018.07.22-07.09.47:705][711]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_829' invalid (4564 verts, 0 indices).
+[2018.07.22-07.09.47:705][711]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_829.BodySetup_812 when we are unable to.
+[2018.07.22-07.09.47:705][711]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_832' invalid (4564 verts, 0 indices).
+[2018.07.22-07.09.47:705][711]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_832.BodySetup_815 when we are unable to.
+[2018.07.22-07.09.47:729][711]LogEditorTransaction: Redo Clicking on Actors
+[2018.07.22-07.09.47:734][711]LogEditorTransaction: Redo Clicking on Actors
+[2018.07.22-07.09.47:734][711]LogEditorTransaction: Redo Select Brush Surface
+[2018.07.22-07.09.47:749][711]LogEditorTransaction: Redo Select Brush Surface
+[2018.07.22-07.09.47:763][711]LogEditorTransaction: Redo Select Brush Surface
+[2018.07.22-07.09.47:781][711]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_829' invalid (4564 verts, 0 indices).
+[2018.07.22-07.09.47:781][711]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_829.BodySetup_812 when we are unable to.
+[2018.07.22-07.09.47:781][711]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_832' invalid (4564 verts, 0 indices).
+[2018.07.22-07.09.47:781][711]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_832.BodySetup_815 when we are unable to.
+[2018.07.22-07.09.49:395][900]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.09.49:410][900]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.09.49:427][900]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_829' invalid (4564 verts, 0 indices).
+[2018.07.22-07.09.49:427][900]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_829.BodySetup_812 when we are unable to.
+[2018.07.22-07.09.49:428][900]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_832' invalid (4564 verts, 0 indices).
+[2018.07.22-07.09.49:428][900]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_832.BodySetup_815 when we are unable to.
+[2018.07.22-07.09.49:937][957]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.09.49:945][957]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.22-07.09.49:947][957]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_829' invalid (4564 verts, 0 indices).
+[2018.07.22-07.09.49:947][957]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_829.BodySetup_812 when we are unable to.
+[2018.07.22-07.09.49:948][957]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_832' invalid (4564 verts, 0 indices).
+[2018.07.22-07.09.49:948][957]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_832.BodySetup_815 when we are unable to.
+[2018.07.22-07.09.50:449][ 13]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.22-07.09.50:456][ 13]LogEditorTransaction: Undo Move Actors
+[2018.07.22-07.09.50:465][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush14.BrushComponent0) Component already registered.
+[2018.07.22-07.09.50:465][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush10.BrushComponent0) Component already registered.
+[2018.07.22-07.09.50:466][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush8.BrushComponent0) Component already registered.
+[2018.07.22-07.09.50:466][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush60.BrushComponent0) Component already registered.
+[2018.07.22-07.09.50:471][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush46.BrushComponent0) Component already registered.
+[2018.07.22-07.09.50:471][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush38.BrushComponent0) Component already registered.
+[2018.07.22-07.09.50:472][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush26.BrushComponent0) Component already registered.
+[2018.07.22-07.09.50:472][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush20.BrushComponent0) Component already registered.
+[2018.07.22-07.09.50:472][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush34.BrushComponent0) Component already registered.
+[2018.07.22-07.09.50:499][ 13]LogEditorTransaction: Undo Move Actors
+[2018.07.22-07.09.50:509][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush7.BrushComponent0) Component already registered.
+[2018.07.22-07.09.50:509][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2018.07.22-07.09.50:510][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush15.BrushComponent0) Component already registered.
+[2018.07.22-07.09.50:510][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush60.BrushComponent0) Component already registered.
+[2018.07.22-07.09.50:515][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush46.BrushComponent0) Component already registered.
+[2018.07.22-07.09.50:515][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush38.BrushComponent0) Component already registered.
+[2018.07.22-07.09.50:516][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush26.BrushComponent0) Component already registered.
+[2018.07.22-07.09.50:516][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush21_37.BrushComponent0) Component already registered.
+[2018.07.22-07.09.50:516][ 13]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush34.BrushComponent0) Component already registered.
+[2018.07.22-07.09.50:928][ 57]LogEditorTransaction: Undo Move Actors
+[2018.07.22-07.09.50:935][ 57]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush7.BrushComponent0) Component already registered.
+[2018.07.22-07.09.50:936][ 57]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2018.07.22-07.09.50:936][ 57]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush15.BrushComponent0) Component already registered.
+[2018.07.22-07.09.50:936][ 57]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush60.BrushComponent0) Component already registered.
+[2018.07.22-07.09.50:941][ 57]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush46.BrushComponent0) Component already registered.
+[2018.07.22-07.09.50:942][ 57]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush38.BrushComponent0) Component already registered.
+[2018.07.22-07.09.50:942][ 57]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush26.BrushComponent0) Component already registered.
+[2018.07.22-07.09.50:942][ 57]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush21_37.BrushComponent0) Component already registered.
+[2018.07.22-07.09.50:943][ 57]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush34.BrushComponent0) Component already registered.
+[2018.07.22-07.09.50:969][ 57]LogEditorTransaction: Undo Move Actors
+[2018.07.22-07.09.50:978][ 57]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush8.BrushComponent0) Component already registered.
+[2018.07.22-07.09.50:978][ 57]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush4.BrushComponent0) Component already registered.
+[2018.07.22-07.09.50:978][ 57]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush17.BrushComponent0) Component already registered.
+[2018.07.22-07.09.50:979][ 57]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush13.BrushComponent0) Component already registered.
+[2018.07.22-07.09.50:984][ 57]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush65.BrushComponent0) Component already registered.
+[2018.07.22-07.09.50:986][ 57]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush46.BrushComponent0) Component already registered.
+[2018.07.22-07.09.50:986][ 57]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush49.BrushComponent0) Component already registered.
+[2018.07.22-07.09.50:987][ 57]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush22.BrushComponent0) Component already registered.
+[2018.07.22-07.09.50:987][ 57]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush30.BrushComponent0) Component already registered.
+[2018.07.22-07.09.51:007][ 57]LogEditorTransaction: Undo Paste
+[2018.07.22-07.09.51:016][ 57]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush3.BrushComponent0) Component already registered.
+[2018.07.22-07.09.51:018][ 57]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush18.BrushComponent0) Component already registered.
+[2018.07.22-07.09.51:023][ 57]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush32_49.BrushComponent0) Component already registered.
+[2018.07.22-07.09.51:024][ 57]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush42.BrushComponent0) Component already registered.
+[2018.07.22-07.09.51:049][ 57]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.09.52:203][190]LogEditorTransaction: Redo Select Brush Surface
+[2018.07.22-07.09.53:602][351]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-07.09.53:683][361]LogEditorTransaction: Redo Paste
+[2018.07.22-07.09.53:718][361]LogEditorTransaction: Redo Move Actors
+[2018.07.22-07.09.54:417][438]LogEditorTransaction: Redo Move Actors
+[2018.07.22-07.09.54:460][438]LogEditorTransaction: Redo Move Actors
+[2018.07.22-07.09.55:921][604]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-07.09.56:002][614]LogEditorTransaction: Redo Move Actors
+[2018.07.22-07.09.56:019][614]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_829' invalid (4564 verts, 0 indices).
+[2018.07.22-07.09.56:019][614]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_829.BodySetup_812 when we are unable to.
+[2018.07.22-07.09.56:020][614]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_832' invalid (4564 verts, 0 indices).
+[2018.07.22-07.09.56:020][614]LogPhysics: Warning: Attempt to build physics data for /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.ModelComponent_832.BodySetup_815 when we are unable to.
+[2018.07.22-07.09.56:043][614]LogEditorTransaction: Redo Clicking on Actors
+[2018.07.22-07.09.56:740][695]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.22-07.09.58:669][922]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-07.09.59:817][ 60]LogEditorTransaction: Undo Move Actors
+[2018.07.22-07.09.59:827][ 60]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush14.BrushComponent0) Component already registered.
+[2018.07.22-07.09.59:828][ 60]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush10.BrushComponent0) Component already registered.
+[2018.07.22-07.09.59:828][ 60]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush8.BrushComponent0) Component already registered.
+[2018.07.22-07.09.59:828][ 60]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush60.BrushComponent0) Component already registered.
+[2018.07.22-07.09.59:836][ 60]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush46.BrushComponent0) Component already registered.
+[2018.07.22-07.09.59:836][ 60]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush38.BrushComponent0) Component already registered.
+[2018.07.22-07.09.59:837][ 60]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush26.BrushComponent0) Component already registered.
+[2018.07.22-07.09.59:838][ 60]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush20.BrushComponent0) Component already registered.
+[2018.07.22-07.09.59:838][ 60]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush34.BrushComponent0) Component already registered.
+[2018.07.22-07.10.07:554][933]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.07.22-07.10.09:067][ 97]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-07.10.09:142][106]LogSlate: Window 'Undo History' being destroyed
+[2018.07.22-07.10.24:244][795]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.07.22-07.10.27:938][221]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-07.10.31:637][650]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-07.10.31:817][671]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-07.10.32:868][797]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-07.10.36:586][240]LogEditorTransaction: Undo Select Surfaces
+[2018.07.22-07.10.37:233][311]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.22-07.10.37:772][370]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.22-07.10.37:783][370]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.10.38:809][487]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.10.39:387][551]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.22-07.10.39:393][551]LogEditorTransaction: Undo Move Actors
+[2018.07.22-07.10.39:402][551]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush15.BrushComponent0) Component already registered.
+[2018.07.22-07.10.39:402][551]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush7.BrushComponent0) Component already registered.
+[2018.07.22-07.10.39:402][551]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush23.BrushComponent0) Component already registered.
+[2018.07.22-07.10.39:403][551]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush19.BrushComponent0) Component already registered.
+[2018.07.22-07.10.39:408][551]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush56.BrushComponent0) Component already registered.
+[2018.07.22-07.10.39:408][551]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush50.BrushComponent0) Component already registered.
+[2018.07.22-07.10.39:408][551]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush64.BrushComponent0) Component already registered.
+[2018.07.22-07.10.39:409][551]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush44.BrushComponent0) Component already registered.
+[2018.07.22-07.10.39:409][551]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush40.BrushComponent0) Component already registered.
+[2018.07.22-07.10.39:409][551]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush38.BrushComponent0) Component already registered.
+[2018.07.22-07.10.39:441][551]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.10.39:899][600]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.10.39:914][600]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.10.40:285][638]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.10.40:301][638]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.10.40:309][638]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.22-07.10.40:316][638]LogEditorTransaction: Undo Move Actors
+[2018.07.22-07.10.40:327][638]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush14.BrushComponent0) Component already registered.
+[2018.07.22-07.10.40:327][638]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush10.BrushComponent0) Component already registered.
+[2018.07.22-07.10.40:327][638]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush8.BrushComponent0) Component already registered.
+[2018.07.22-07.10.40:327][638]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush60.BrushComponent0) Component already registered.
+[2018.07.22-07.10.40:334][638]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush46.BrushComponent0) Component already registered.
+[2018.07.22-07.10.40:334][638]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush38.BrushComponent0) Component already registered.
+[2018.07.22-07.10.40:335][638]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush26.BrushComponent0) Component already registered.
+[2018.07.22-07.10.40:335][638]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush20.BrushComponent0) Component already registered.
+[2018.07.22-07.10.40:335][638]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush34.BrushComponent0) Component already registered.
+[2018.07.22-07.10.40:852][694]LogEditorTransaction: Undo Move Actors
+[2018.07.22-07.10.40:861][694]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush7.BrushComponent0) Component already registered.
+[2018.07.22-07.10.40:862][694]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2018.07.22-07.10.40:862][694]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush15.BrushComponent0) Component already registered.
+[2018.07.22-07.10.40:862][694]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush60.BrushComponent0) Component already registered.
+[2018.07.22-07.10.40:867][694]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush46.BrushComponent0) Component already registered.
+[2018.07.22-07.10.40:867][694]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush38.BrushComponent0) Component already registered.
+[2018.07.22-07.10.40:868][694]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush26.BrushComponent0) Component already registered.
+[2018.07.22-07.10.40:868][694]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush21_37.BrushComponent0) Component already registered.
+[2018.07.22-07.10.40:868][694]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush34.BrushComponent0) Component already registered.
+[2018.07.22-07.10.40:895][694]LogEditorTransaction: Undo Move Actors
+[2018.07.22-07.10.40:905][694]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush7.BrushComponent0) Component already registered.
+[2018.07.22-07.10.40:905][694]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2018.07.22-07.10.40:905][694]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush15.BrushComponent0) Component already registered.
+[2018.07.22-07.10.40:906][694]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush60.BrushComponent0) Component already registered.
+[2018.07.22-07.10.40:910][694]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush46.BrushComponent0) Component already registered.
+[2018.07.22-07.10.40:910][694]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush38.BrushComponent0) Component already registered.
+[2018.07.22-07.10.40:911][694]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush26.BrushComponent0) Component already registered.
+[2018.07.22-07.10.40:911][694]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush21_37.BrushComponent0) Component already registered.
+[2018.07.22-07.10.40:912][694]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush34.BrushComponent0) Component already registered.
+[2018.07.22-07.10.40:938][694]LogEditorTransaction: Undo Move Actors
+[2018.07.22-07.10.40:946][694]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush8.BrushComponent0) Component already registered.
+[2018.07.22-07.10.40:946][694]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush4.BrushComponent0) Component already registered.
+[2018.07.22-07.10.40:947][694]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush17.BrushComponent0) Component already registered.
+[2018.07.22-07.10.40:947][694]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush13.BrushComponent0) Component already registered.
+[2018.07.22-07.10.40:951][694]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush65.BrushComponent0) Component already registered.
+[2018.07.22-07.10.40:952][694]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush46.BrushComponent0) Component already registered.
+[2018.07.22-07.10.40:953][694]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush49.BrushComponent0) Component already registered.
+[2018.07.22-07.10.40:953][694]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush22.BrushComponent0) Component already registered.
+[2018.07.22-07.10.40:954][694]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush30.BrushComponent0) Component already registered.
+[2018.07.22-07.10.40:975][694]LogEditorTransaction: Undo Paste
+[2018.07.22-07.10.40:984][694]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush3.BrushComponent0) Component already registered.
+[2018.07.22-07.10.40:985][694]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush18.BrushComponent0) Component already registered.
+[2018.07.22-07.10.40:989][694]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush32_49.BrushComponent0) Component already registered.
+[2018.07.22-07.10.40:991][694]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush42.BrushComponent0) Component already registered.
+[2018.07.22-07.10.41:292][725]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.10.41:305][725]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.10.41:319][725]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.10.41:797][777]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.10.41:811][777]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.10.41:825][777]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.10.41:839][777]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.10.42:201][815]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.22-07.10.42:212][815]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.10.42:226][815]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.10.42:240][815]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.10.42:255][815]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.10.42:621][853]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.10.42:635][853]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.10.42:650][853]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.10.42:658][853]LogEditorTransaction: Undo Move Actors
+[2018.07.22-07.10.42:666][853]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush10.BrushComponent0) Component already registered.
+[2018.07.22-07.10.42:666][853]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush11.BrushComponent0) Component already registered.
+[2018.07.22-07.10.42:666][853]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush7.BrushComponent0) Component already registered.
+[2018.07.22-07.10.42:666][853]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush17.BrushComponent0) Component already registered.
+[2018.07.22-07.10.42:666][853]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush18.BrushComponent0) Component already registered.
+[2018.07.22-07.10.42:666][853]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush14.BrushComponent0) Component already registered.
+[2018.07.22-07.10.42:667][853]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush47.BrushComponent0) Component already registered.
+[2018.07.22-07.10.42:672][853]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush42.BrushComponent0) Component already registered.
+[2018.07.22-07.10.42:672][853]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush26.BrushComponent0) Component already registered.
+[2018.07.22-07.10.42:672][853]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush33.BrushComponent0) Component already registered.
+[2018.07.22-07.10.42:961][883]LogEditorTransaction: Undo Move Actors
+[2018.07.22-07.10.42:968][883]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush10.BrushComponent0) Component already registered.
+[2018.07.22-07.10.42:968][883]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush11.BrushComponent0) Component already registered.
+[2018.07.22-07.10.42:968][883]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush7.BrushComponent0) Component already registered.
+[2018.07.22-07.10.42:969][883]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush17.BrushComponent0) Component already registered.
+[2018.07.22-07.10.42:969][883]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush18.BrushComponent0) Component already registered.
+[2018.07.22-07.10.42:969][883]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush14.BrushComponent0) Component already registered.
+[2018.07.22-07.10.42:969][883]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush47.BrushComponent0) Component already registered.
+[2018.07.22-07.10.42:974][883]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush42.BrushComponent0) Component already registered.
+[2018.07.22-07.10.42:974][883]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush26.BrushComponent0) Component already registered.
+[2018.07.22-07.10.42:974][883]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush33.BrushComponent0) Component already registered.
+[2018.07.22-07.10.42:994][883]LogEditorTransaction: Undo Move Actors
+[2018.07.22-07.10.43:001][883]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush18.BrushComponent0) Component already registered.
+[2018.07.22-07.10.43:001][883]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush14.BrushComponent0) Component already registered.
+[2018.07.22-07.10.43:001][883]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush15.BrushComponent0) Component already registered.
+[2018.07.22-07.10.43:006][883]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush_9.BrushComponent0) Component already registered.
+[2018.07.22-07.10.43:006][883]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush39.BrushComponent0) Component already registered.
+[2018.07.22-07.10.43:006][883]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush35.BrushComponent0) Component already registered.
+[2018.07.22-07.10.43:007][883]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush36.BrushComponent0) Component already registered.
+[2018.07.22-07.10.43:007][883]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush42.BrushComponent0) Component already registered.
+[2018.07.22-07.10.43:007][883]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush25.BrushComponent0) Component already registered.
+[2018.07.22-07.10.43:008][883]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush22.BrushComponent0) Component already registered.
+[2018.07.22-07.10.43:008][883]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush21_37.BrushComponent0) Component already registered.
+[2018.07.22-07.10.43:008][883]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush32_49.BrushComponent0) Component already registered.
+[2018.07.22-07.10.43:008][883]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush28.BrushComponent0) Component already registered.
+[2018.07.22-07.10.43:025][883]LogEditorTransaction: Undo Paste
+[2018.07.22-07.10.43:033][883]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush18.BrushComponent0) Component already registered.
+[2018.07.22-07.10.43:034][883]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush12.BrushComponent0) Component already registered.
+[2018.07.22-07.10.43:034][883]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush23.BrushComponent0) Component already registered.
+[2018.07.22-07.10.43:038][883]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush36.BrushComponent0) Component already registered.
+[2018.07.22-07.10.43:039][883]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush41.BrushComponent0) Component already registered.
+[2018.07.22-07.10.44:339][ 35]LogEditorTransaction: Undo Move Actors
+[2018.07.22-07.10.44:347][ 35]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush43.BrushComponent0) Component already registered.
+[2018.07.22-07.10.44:350][ 35]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush40.BrushComponent0) Component already registered.
+[2018.07.22-07.10.44:351][ 35]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush27.BrushComponent0) Component already registered.
+[2018.07.22-07.10.44:368][ 35]LogEditorTransaction: Undo Move Actors
+[2018.07.22-07.10.44:375][ 35]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush12.BrushComponent0) Component already registered.
+[2018.07.22-07.10.44:381][ 35]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush31.BrushComponent0) Component already registered.
+[2018.07.22-07.10.44:396][ 35]LogEditorTransaction: Undo Paste
+[2018.07.22-07.10.44:403][ 35]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush14.BrushComponent0) Component already registered.
+[2018.07.22-07.10.44:404][ 35]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush17.BrushComponent0) Component already registered.
+[2018.07.22-07.10.44:404][ 35]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush21_37.BrushComponent0) Component already registered.
+[2018.07.22-07.10.44:404][ 35]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush22.BrushComponent0) Component already registered.
+[2018.07.22-07.10.44:408][ 35]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush6.BrushComponent0) Component already registered.
+[2018.07.22-07.10.44:408][ 35]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2018.07.22-07.10.44:408][ 35]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush33.BrushComponent0) Component already registered.
+[2018.07.22-07.10.44:409][ 35]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush29.BrushComponent0) Component already registered.
+[2018.07.22-07.10.44:409][ 35]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush37.BrushComponent0) Component already registered.
+[2018.07.22-07.10.44:423][ 35]LogEditorTransaction: Undo Move Actors
+[2018.07.22-07.10.44:451][ 35]LogEditorTransaction: Undo Move Actors
+[2018.07.22-07.10.44:478][ 35]LogEditorTransaction: Undo Move Actors
+[2018.07.22-07.10.44:505][ 35]LogEditorTransaction: Undo Move Actors
+[2018.07.22-07.10.44:530][ 35]LogEditorTransaction: Undo Move Actors
+[2018.07.22-07.10.44:540][ 35]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush34.BrushComponent0) Component already registered.
+[2018.07.22-07.10.44:557][ 35]LogEditorTransaction: Undo Paste
+[2018.07.22-07.10.44:563][ 35]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush13.BrushComponent0) Component already registered.
+[2018.07.22-07.10.44:563][ 35]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush9.BrushComponent0) Component already registered.
+[2018.07.22-07.10.44:564][ 35]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush15.BrushComponent0) Component already registered.
+[2018.07.22-07.10.44:567][ 35]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush5_15.BrushComponent0) Component already registered.
+[2018.07.22-07.10.44:568][ 35]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush2.BrushComponent0) Component already registered.
+[2018.07.22-07.10.44:568][ 35]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush35.BrushComponent0) Component already registered.
+[2018.07.22-07.10.44:588][ 35]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.10.44:601][ 35]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.10.44:616][ 35]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.10.45:995][195]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.10.46:008][195]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.10.46:017][195]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.10.47:904][417]LogEditorTransaction: Redo Select Brush Surface
+[2018.07.22-07.10.47:913][417]LogEditorTransaction: Redo Select Brush Surface
+[2018.07.22-07.10.47:927][417]LogEditorTransaction: Redo Select Brush Surface
+[2018.07.22-07.10.47:941][417]LogEditorTransaction: Redo Select Brush Surface
+[2018.07.22-07.10.47:954][417]LogEditorTransaction: Redo Select Brush Surface
+[2018.07.22-07.10.47:967][417]LogEditorTransaction: Redo Select Brush Surface
+[2018.07.22-07.10.47:981][417]LogEditorTransaction: Redo Paste
+[2018.07.22-07.10.48:006][417]LogEditorTransaction: Redo Move Actors
+[2018.07.22-07.10.48:030][417]LogEditorTransaction: Redo Move Actors
+[2018.07.22-07.10.48:057][417]LogEditorTransaction: Redo Move Actors
+[2018.07.22-07.10.48:084][417]LogEditorTransaction: Redo Move Actors
+[2018.07.22-07.10.48:110][417]LogEditorTransaction: Redo Move Actors
+[2018.07.22-07.10.48:136][417]LogEditorTransaction: Redo Paste
+[2018.07.22-07.10.48:163][417]LogEditorTransaction: Redo Move Actors
+[2018.07.22-07.10.48:191][417]LogEditorTransaction: Redo Move Actors
+[2018.07.22-07.10.48:220][417]LogEditorTransaction: Redo Paste
+[2018.07.22-07.10.48:249][417]LogEditorTransaction: Redo Move Actors
+[2018.07.22-07.10.48:281][417]LogEditorTransaction: Redo Move Actors
+[2018.07.22-07.10.48:311][417]LogEditorTransaction: Redo Move Actors
+[2018.07.22-07.10.48:342][417]LogEditorTransaction: Redo Select Brush Surface
+[2018.07.22-07.10.48:357][417]LogEditorTransaction: Redo Select Brush Surface
+[2018.07.22-07.10.48:371][417]LogEditorTransaction: Redo Select Brush Surface
+[2018.07.22-07.10.48:385][417]LogEditorTransaction: Redo Select Brush Surface
+[2018.07.22-07.10.48:399][417]LogEditorTransaction: Redo Select Brush Surface
+[2018.07.22-07.10.48:413][417]LogEditorTransaction: Redo Select Brush Surface
+[2018.07.22-07.10.48:427][417]LogEditorTransaction: Redo Select Brush Surface
+[2018.07.22-07.10.48:441][417]LogEditorTransaction: Redo Clicking on Actors
+[2018.07.22-07.10.48:451][417]LogEditorTransaction: Redo Select Brush Surface
+[2018.07.22-07.10.48:465][417]LogEditorTransaction: Redo Select Brush Surface
+[2018.07.22-07.10.48:479][417]LogEditorTransaction: Redo Select Brush Surface
+[2018.07.22-07.10.48:493][417]LogEditorTransaction: Redo Select Brush Surface
+[2018.07.22-07.10.48:507][417]LogEditorTransaction: Redo Select Brush Surface
+[2018.07.22-07.10.48:521][417]LogEditorTransaction: Redo Select Brush Surface
+[2018.07.22-07.10.48:535][417]LogEditorTransaction: Redo Select Brush Surface
+[2018.07.22-07.10.48:549][417]LogEditorTransaction: Redo Paste
+[2018.07.22-07.10.48:583][417]LogEditorTransaction: Redo Move Actors
+[2018.07.22-07.10.48:625][417]LogEditorTransaction: Redo Move Actors
+[2018.07.22-07.10.48:666][417]LogEditorTransaction: Redo Move Actors
+[2018.07.22-07.10.48:707][417]LogEditorTransaction: Redo Move Actors
+[2018.07.22-07.10.48:750][417]LogEditorTransaction: Redo Clicking on Actors
+[2018.07.22-07.10.48:755][417]LogEditorTransaction: Redo Select Brush Surface
+[2018.07.22-07.10.48:770][417]LogEditorTransaction: Redo Select Brush Surface
+[2018.07.22-07.10.48:785][417]LogEditorTransaction: Redo Select Brush Surface
+[2018.07.22-07.10.48:800][417]LogEditorTransaction: Redo Select Brush Surface
+[2018.07.22-07.10.48:816][417]LogEditorTransaction: Redo Select Brush Surface
+[2018.07.22-07.10.48:832][417]LogEditorTransaction: Redo Move Actors
+[2018.07.22-07.10.48:874][417]LogEditorTransaction: Redo Clicking on Actors
+[2018.07.22-07.10.48:881][417]LogEditorTransaction: Redo Select Brush Surface
+[2018.07.22-07.10.48:897][417]LogEditorTransaction: Redo Select Brush Surface
+[2018.07.22-07.10.48:915][417]LogEditorTransaction: Redo Clicking on Actors
+[2018.07.22-07.10.48:928][417]LogEditorTransaction: Redo Clicking on Actors
+[2018.07.22-07.10.48:937][417]LogEditorTransaction: Redo Select Surfaces
+[2018.07.22-07.10.50:250][559]LogSlate: Window 'Undo History' being destroyed
+[2018.07.22-07.10.53:571][938]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door7)
+[2018.07.22-07.11.02:114][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-07.11.03:967][141]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.22-07.11.03:997][141]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.22-07.11.03:997][141]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.22-07.11.03:997][141]PIE: New page: PIE session: FirstPersonExampleMap (23 Jul 2018 3:11:03 am)
+[2018.07.22-07.11.03:998][141]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.07.22-07.11.04:077][141]LogPlayLevel: PIE: StaticDuplicateObject took: (0.080398s)
+[2018.07.22-07.11.04:078][141]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.07.22-07.11.04:078][141]LogPlayLevel: PIE: World Init took: (0.000635s)
+[2018.07.22-07.11.04:078][141]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.081183s)
+[2018.07.22-07.11.04:088][141]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000024f8a1014b0, Size=24
+[2018.07.22-07.11.04:105][141]LogInit: XAudio2 using 'BenQ RL2755-4 (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.22-07.11.04:112][141]LogInit: FAudioDevice initialized.
+[2018.07.22-07.11.04:173][141]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.07.22-07.11.04:191][141]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.07.22-17.11.04
+[2018.07.22-07.11.04:191][141]LogWorld: Bringing up level for play took: 0.016701
+[2018.07.22-07.11.04:208][141]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2018.07.22-07.11.04:219][141]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.473
+[2018.07.22-07.11.04:219][141]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.22-07.11.20:363][ 70]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.22-07.11.20:411][ 70]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.22-07.11.20:443][ 71]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-07.11.20:467][ 71]LogSlate: Took 0.018779 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.07.22-07.11.26:515][757]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Door7)
+[2018.07.22-07.11.34:985][685]LogEditorViewport: Clicking on Actor (CTRL LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2018.07.22-07.11.53:246][714]Cmd: EDIT COPY
+[2018.07.22-07.11.53:491][741]Cmd: EDIT PASTE
+[2018.07.22-07.12.19:405][640]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.07.22-07.12.23:334][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-07.12.29:066][742]Cmd: TRANSACTION UNDO
+[2018.07.22-07.12.29:066][742]LogEditorTransaction: Undo Edit X
+[2018.07.22-07.12.29:086][742]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush69.BrushComponent0) Component already registered.
+[2018.07.22-07.12.29:086][742]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush72.BrushComponent0) Component already registered.
+[2018.07.22-07.12.29:086][742]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush63.BrushComponent0) Component already registered.
+[2018.07.22-07.12.29:086][742]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush66.BrushComponent0) Component already registered.
+[2018.07.22-07.12.29:087][742]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush58.BrushComponent0) Component already registered.
+[2018.07.22-07.12.36:731][632]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-07.12.43:587][440]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.22-07.12.47:881][933]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.07.22-07.12.52:195][407]Cmd: DELETE
+[2018.07.22-07.12.52:195][407]Cmd: ACTOR DELETE
+[2018.07.22-07.12.52:234][407]LogEditorActor: Deleted Actor: Brush
+[2018.07.22-07.12.52:297][407]LogEditorActor: Deleted 1 Actors (0.101 secs)
+[2018.07.22-07.12.54:434][653]Cmd: EDIT COPY
+[2018.07.22-07.12.54:649][678]Cmd: EDIT PASTE
+[2018.07.22-07.13.01:943][475]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.07.22-07.13.09:384][292]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.22-07.13.10:699][420]Cmd: TRANSACTION UNDO
+[2018.07.22-07.13.10:699][420]LogEditorTransaction: Undo Select Surfaces
+[2018.07.22-07.13.16:859][107]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Door7)
+[2018.07.22-07.13.25:688][ 46]LogEditorViewport: Clicking on Actor (CTRL LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2018.07.22-07.13.37:650][396]Cmd: EDIT COPY
+[2018.07.22-07.13.37:890][420]Cmd: EDIT PASTE
+[2018.07.22-07.13.41:127][775]Cmd: TRANSACTION UNDO
+[2018.07.22-07.13.41:127][775]LogEditorTransaction: Undo Move Actors
+[2018.07.22-07.13.41:150][775]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush67.BrushComponent0) Component already registered.
+[2018.07.22-07.13.41:151][775]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush79.BrushComponent0) Component already registered.
+[2018.07.22-07.13.41:628][826]Cmd: TRANSACTION UNDO
+[2018.07.22-07.13.41:628][826]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.22-07.13.46:015][311]Cmd: TRANSACTION UNDO
+[2018.07.22-07.13.46:015][311]LogEditorTransaction: Undo Move Actors
+[2018.07.22-07.13.46:029][311]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush11.BrushComponent0) Component already registered.
+[2018.07.22-07.13.46:030][311]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush35.BrushComponent0) Component already registered.
+[2018.07.22-07.13.46:030][311]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush46.BrushComponent0) Component already registered.
+[2018.07.22-07.13.46:040][311]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush94.BrushComponent0) Component already registered.
+[2018.07.22-07.13.46:040][311]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush57.BrushComponent0) Component already registered.
+[2018.07.22-07.13.46:391][347]Cmd: TRANSACTION UNDO
+[2018.07.22-07.13.46:391][347]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.22-07.13.48:655][607]Cmd: TRANSACTION UNDO
+[2018.07.22-07.13.48:655][607]LogEditorTransaction: Undo Move Actors
+[2018.07.22-07.13.48:677][607]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush87.BrushComponent0) Component already registered.
+[2018.07.22-07.13.48:680][607]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush65.BrushComponent0) Component already registered.
+[2018.07.22-07.13.49:069][648]Cmd: TRANSACTION UNDO
+[2018.07.22-07.13.49:069][648]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.22-07.13.49:959][752]Cmd: TRANSACTION UNDO
+[2018.07.22-07.13.49:960][752]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.22-07.13.52:594][ 56]Cmd: TRANSACTION UNDO
+[2018.07.22-07.13.52:594][ 56]LogEditorTransaction: Undo Move Actors
+[2018.07.22-07.13.52:619][ 56]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.BoxBrush65.BrushComponent0) Component already registered.
+[2018.07.22-07.14.02:390][216]Cmd: TRANSACTION UNDO
+[2018.07.22-07.14.02:390][216]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.22-07.14.02:885][252]Cmd: TRANSACTION UNDO
+[2018.07.22-07.14.02:885][252]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.22-07.14.03:663][342]Cmd: TRANSACTION UNDO
+[2018.07.22-07.14.03:663][342]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.22-07.14.04:294][416]Cmd: TRANSACTION UNDO
+[2018.07.22-07.14.04:294][416]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.22-07.14.04:802][475]Cmd: TRANSACTION UNDO
+[2018.07.22-07.14.04:802][475]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.22-07.14.05:333][537]Cmd: TRANSACTION UNDO
+[2018.07.22-07.14.05:333][537]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.22-07.14.06:001][616]Cmd: TRANSACTION UNDO
+[2018.07.22-07.14.06:001][616]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.22-07.14.06:456][668]Cmd: TRANSACTION UNDO
+[2018.07.22-07.14.06:456][668]LogEditorTransaction: Undo Select Brush Surface
+[2018.07.22-07.14.06:511][668]LogWindows: Windows GetLastError: The operation completed successfully. (0)
